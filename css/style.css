@@ -34,12 +34,7 @@ body {
 
 .nav a {
   margin-right: 10px;
-  text-decoration: none;
   color: #000;
-}
-
-.nav a:hover {
-  text-decoration: underline;
 }
 
 main {
@@ -118,10 +113,5 @@ details summary {
 
 .site-footer a {
   margin-right: 10px;
-  text-decoration: none;
   color: #000;
-}
-
-.site-footer a:hover {
-  text-decoration: underline;
 }
